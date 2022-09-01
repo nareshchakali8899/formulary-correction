@@ -1,0 +1,15 @@
+#Ignore Data Folder
+data/
+
+#Ignore virtual env
+v_env/
+
+#Ignore all pycache files
+__pycache__/
+.ipynb_checkpoints
+
+__pypackages__/
+
+/.vscode/
+
+Untitled.ipynb
