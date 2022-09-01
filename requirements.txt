@@ -1,0 +1,7 @@
+jupyter
+fuzzywuzzy
+tqdm
+nest_asyncio
+search-engine-parser
+wikipedia
+streamlit
